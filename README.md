@@ -6,4 +6,4 @@ Examples:
 
 `python crypto.py amount-needed --want=1700 --current_price=1690 --money_spent=350 --current_coins_amount=0.19419`
 
-`python crypto.py amount-range --initial_price=1800 --current_price=1700 --money_spent=2780 --current_coins_amount=1.5`
+`python crypto.py amount-range --initial_price=1800 --current_price=1780 --money_spent=2700 --current_coins_amount=1.5`
